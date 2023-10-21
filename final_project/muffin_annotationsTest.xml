@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='muffin/img_0_1019.jpg'>
+    <box top='36' left='185' width='170' height='163'>
+      <label>muffin</label>
+    </box>
+    <box top='208' left='177' width='167' height='160'>
+      <label>muffin</label>
+    </box>
+    <box top='216' left='353' width='172' height='157'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_1026.jpg'>
+    <box top='290' left='211' width='264' height='234'>
+      <label>muffin</label>
+    </box>
+    <box top='514' left='135' width='234' height='237'>
+      <label>muffin</label>
+    </box>
+    <box top='618' left='374' width='233' height='246'>
+      <label>muffin</label>
+    </box>
+    <box top='171' left='452' width='227' height='226'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_1032.jpg'>
+    <box top='266' left='41' width='501' height='460'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_117.jpg'>
+    <box top='52' left='273' width='522' height='470'>
+      <label>muffin</label>
+    </box>
+    <box top='489' left='683' width='531' height='493'>
+      <label>muffin</label>
+    </box>
+    <box top='1106' left='337' width='515' height='537'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_141.jpg'>
+    <box top='649' left='306' width='290' height='284'>
+      <label>muffin</label>
+    </box>
+    <box top='709' left='683' width='348' height='277'>
+      <label>muffin</label>
+    </box>
+    <box top='974' left='484' width='350' height='277'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_217.jpg'>
+    <box top='204' left='67' width='225' height='219'>
+      <label>muffin</label>
+    </box>
+    <box top='74' left='204' width='193' height='159'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_41.jpg'>
+    <box top='249' left='270' width='427' height='410'>
+      <label>muffin</label>
+    </box>
+    <box top='299' left='684' width='436' height='410'>
+      <label>muffin</label>
+    </box>
+    <box top='681' left='376' width='436' height='443'>
+      <label>muffin</label>
+    </box>
+    <box top='1135' left='298' width='446' height='447'>
+      <label>muffin</label>
+    </box>
+    <box top='1060' left='723' width='422' height='433'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_68.jpg'>
+    <box top='226' left='440' width='696' height='715'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_830.jpg'>
+    <box top='643' left='131' width='371' height='296'>
+      <label>muffin</label>
+    </box>
+    <box top='851' left='460' width='374' height='308'>
+      <label>muffin</label>
+    </box>
+    <box top='684' left='801' width='361' height='310'>
+      <label>muffin</label>
+    </box>
+    <box top='1065' left='85' width='381' height='317'>
+      <label>muffin</label>
+    </box>
+    <box top='302' left='751' width='337' height='261'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_884.jpg'>
+    <box top='446' left='135' width='359' height='310'>
+      <label>muffin</label>
+    </box>
+    <box top='781' left='217' width='376' height='325'>
+      <label>muffin</label>
+    </box>
+    <box top='1146' left='289' width='407' height='366'>
+      <label>muffin</label>
+    </box>
+    <box top='675' left='621' width='385' height='336'>
+      <label>muffin</label>
+    </box>
+    <box top='1042' left='718' width='405' height='325'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_91.jpg'>
+    <box top='17' left='224' width='146' height='145'>
+      <label>muffin</label>
+    </box>
+    <box top='18' left='368' width='136' height='148'>
+      <label>muffin</label>
+    </box>
+    <box top='18' left='503' width='153' height='144'>
+      <label>muffin</label>
+    </box>
+    <box top='164' left='222' width='149' height='142'>
+      <label>muffin</label>
+    </box>
+    <box top='167' left='370' width='138' height='142'>
+      <label>muffin</label>
+    </box>
+    <box top='168' left='508' width='148' height='139'>
+      <label>muffin</label>
+    </box>
+    <box top='306' left='74' width='151' height='162'>
+      <label>muffin</label>
+    </box>
+    <box top='307' left='222' width='147' height='152'>
+      <label>muffin</label>
+    </box>
+    <box top='307' left='368' width='144' height='154'>
+      <label>muffin</label>
+    </box>
+    <box top='307' left='510' width='147' height='151'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_915.jpg'>
+    <box top='404' left='80' width='606' height='434'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_952.jpg'>
+    <box top='320' left='374' width='618' height='581'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_977.jpg'>
+    <box top='1175' left='290' width='314' height='277'>
+      <label>muffin</label>
+    </box>
+    <box top='967' left='570' width='302' height='290'>
+      <label>muffin</label>
+    </box>
+    <box top='587' left='233' width='284' height='301'>
+      <label>muffin</label>
+    </box>
+    <box top='325' left='443' width='270' height='277'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_991.jpg'>
+    <box top='357' left='208' width='362' height='383'>
+      <label>muffin</label>
+    </box>
+  </image>
+  <image file='muffin/img_0_998.jpg'>
+    <box top='806' left='441' width='391' height='397'>
+      <label>muffin</label>
+    </box>
+    <box top='430' left='427' width='403' height='375'>
+      <label>muffin</label>
+    </box>
+  </image>
+</images>
+</dataset>

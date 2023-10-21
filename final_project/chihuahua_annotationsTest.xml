@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='chihuahua/img_0_109.jpg'>
+    <box top='219' left='972' width='289' height='247'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_206.jpg'>
+    <box top='105' left='281' width='107' height='73'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_253.jpg'>
+    <box top='266' left='269' width='305' height='235'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_31.jpg'>
+    <box top='309' left='408' width='94' height='125'>
+      <label>chihuahua</label>
+    </box>
+    <box top='82' left='170' width='115' height='102'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_34.jpg'>
+    <box top='114' left='255' width='97' height='86'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_395.jpg'>
+    <box top='507' left='698' width='357' height='250'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_41.jpg'>
+    <box top='162' left='257' width='290' height='191'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_53.jpg'>
+    <box top='118' left='203' width='78' height='69'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_55.jpg'>
+    <box top='147' left='324' width='138' height='104'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_613.jpg'>
+    <box top='416' left='349' width='413' height='309'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_626.jpg'>
+    <box top='168' left='7' width='751' height='443'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_67.jpg'>
+    <box top='374' left='309' width='370' height='308'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_7.jpg'>
+    <box top='412' left='262' width='373' height='248'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_70.jpg'>
+    <box top='185' left='150' width='507' height='388'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_870.jpg'>
+    <box top='369' left='252' width='229' height='218'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_902.jpg'>
+    <box top='390' left='336' width='392' height='237'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_0_912.jpg'>
+    <box top='286' left='379' width='237' height='215'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_512.jpg'>
+    <box top='112' left='261' width='233' height='228'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_560.jpg'>
+    <box top='231' left='149' width='245' height='210'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_566.jpg'>
+    <box top='351' left='454' width='450' height='340'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_607.jpg'>
+    <box top='168' left='227' width='215' height='156'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_622.jpg'>
+    <box top='375' left='322' width='185' height='150'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+  <image file='chihuahua/img_1_716.jpg'>
+    <box top='191' left='396' width='193' height='146'>
+      <label>chihuahua</label>
+    </box>
+  </image>
+</images>
+</dataset>
